@@ -1,13 +1,12 @@
 <html>
 <head>
-Subaru Of America Models
 <title>
-Kate Green
+Week 3 Assignment - Blog
 </title>
+<link rel="stylesheet" type="text/css" href="style.css" />
 </head>
 <body>
 <header>
-    <h1>Five Subaru Models<h1>
 </header>
 <nav>
     <a href="index.php">HOME</a>

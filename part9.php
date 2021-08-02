@@ -39,3 +39,9 @@ foreach($childrenNames as $childName) {
     echo "<l1>" . $childName . </l1>";
 }
 
+$postDetails = array('title' => 'Blog Post 1',
+                    'content' => 'My first blog post',
+                    'date' => '01/01/2018',
+                    'author' => 'christikaes');
+
+                    
