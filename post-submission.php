@@ -10,11 +10,9 @@ Kate Green
     <h1>Five Subaru Models<h1>
 </header>
 <nav>
-    <a href="index.html">HOME</a>
-    <a href="post.html">POST</a>
-    <a href="crosstrek.html">CROSSTREK</a>
-    <a href="impreza.html">IMPREZA</a>
-    <a href="wrx.html">WRX</a>
+    <a href="index.php">HOME</a>
+    <a href="post.php">POST</a>
+    <a href="post-submission.php">SUBMISSION</a>
 </nav>
 <main>
     <form action="/action_page.php" method="get">
